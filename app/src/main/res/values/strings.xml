@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountryApp</string>
+    <string name="ttl_country_info">Country Info:</string>
+    <string name="ttl_country_language">Languages</string>
+    <string name="ttl_country_capital">Capital</string>
+    <string name="ttl_country_currencies">Currencies</string>
+</resources>
